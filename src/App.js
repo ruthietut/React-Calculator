@@ -150,7 +150,7 @@ const App = () => {
           );
         })}
       </ButtonBox>
-    </Wrapper>
+    </Wrapper> 
   );
 };
 
